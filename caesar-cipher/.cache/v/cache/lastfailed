@@ -1,0 +1,11 @@
+{
+  "caesar-cypher-tests.py": true, 
+  "test_caesar_cipher.py::test_encode_text::test_it_does_not_translate_spaces": true, 
+  "test_caesar_cipher.py::test_outputted_letters::test_correct_letter_is_outputted_when_a_cycle_needs_to_be_performed": true, 
+  "test_caesar_cipher.py::test_outputted_letters::test_correct_letter_is_outputted_when_cycle_is_made": true, 
+  "test_caesar_cipher.py::test_outputted_letters::test_it_does_not_encrypt_numbers": true, 
+  "test_caesar_cipher.py::test_outputted_letters::test_it_does_not_translate_spaces": true, 
+  "test_caesar_cipher.py::test_outputted_letters::test_it_encrypts_numbers_when_a_cycle_is_preformed": true, 
+  "test_caesar_cipher.py::test_spaces_to_shift_by::test_it_can_output_the_correct_letters": true, 
+  "test_caesar_cipher.py::test_spaces_to_shift_by::test_it_returns_positive_numbers": true
+}
